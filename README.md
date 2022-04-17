@@ -11,8 +11,4 @@
 
 ---
 
- <details id="missing-code-coverage">
-   <summary>Репорт про ошибку.</summary>
-О я вижу ты знайшол баг! То напишеш мне проблему на пошту, и я прочитаю. И даже исправлю!
-
 ##### by MishaKorzhik
